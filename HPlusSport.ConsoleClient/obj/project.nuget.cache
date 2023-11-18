@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/sRB/TqAh1R7Ivmdh8Xi3W2vBtWQL+eqtN+eOtPiAW9Op8iW4E57AkW6CQSoTrVKl2sLjrlW6D24d90tq3624w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agodag03\\Desktop\\Advanceddotnet\\HPlusSport.ConsoleClient\\HPlusSport.ConsoleClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agodag03\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
